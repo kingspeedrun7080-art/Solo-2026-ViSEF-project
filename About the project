@@ -19,7 +19,10 @@ This project was developed to solve:
 
 The system works by:
 
-[Briefly explain how the project works.]
+- Using raspberry Pi as brain and contorller.
+- S.L.A.M technology or Lidar.
+- Advanced pathfinding algorithm.
+
 
 ## My Responsibilities
 
